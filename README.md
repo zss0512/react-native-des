@@ -3,7 +3,7 @@ A des crypto for react-native
 
 ## Installation
 ```sh
-npm install @remobile/react-native-des --save
+npm install @zss0512/react-native-des --save
 ```
 ### Installation (iOS)
 * Drag RCTDes.xcodeproj to your project on Xcode.
